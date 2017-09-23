@@ -7,11 +7,11 @@ Programmers:
 
              Donghwee Kwon dhkwon7740@gmail.com / dokwon@ucsd.edu
              
-             Seungho Ha
+             Seungho Ha kyy3995@gmail.com
              
-             Joeun Heo
+             Joeun Heo joeun424@gmail.com
              
-             Chansoo Lee
+             Chansoo Lee echansu@gmail.com
              
 Date: 23 April 2016 - August 2016
 
