@@ -19,3 +19,5 @@ Date: 23 April 2016 - August 2016
 
 
 •	Facilitated this program for users to draw NS-Chart easily, clearly, and efficiently
+
+•	Used Google Drive for version control
