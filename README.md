@@ -13,7 +13,7 @@ Programmers:
              
              Chansoo Lee echansu@gmail.com
              
-Date: 23 April 2016 - August 2016
+Date: April 2016 - August 2016
 
 •	Spearheaded the team of four to develop a chart that can assist programmers or programming-majored students to draw their algorithms to Nassi-Shneiderman Chart(NS-Chart).
 
