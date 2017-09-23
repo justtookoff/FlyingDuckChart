@@ -3,7 +3,9 @@
 2016 Team project
 
 
-Programmers: Donghwee Kwon dhkwon7740@gmail.com / dokwon@ucsd.edu
+Programmers: 
+
+             Donghwee Kwon dhkwon7740@gmail.com / dokwon@ucsd.edu
              
              Seungho Ha
              
